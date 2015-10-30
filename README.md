@@ -1,0 +1,2 @@
+# Asyntaskjsonparsingadapter
+jsonadapter
